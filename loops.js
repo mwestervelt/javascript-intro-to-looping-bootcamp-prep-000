@@ -9,4 +9,3 @@ function forLoop() {
 }
 return array
 }
-
